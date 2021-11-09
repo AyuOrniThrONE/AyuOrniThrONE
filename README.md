@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-AyuOrniThrONE-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-thaware-00a015204/)](https://www.linkedin.com/in/ayush-thaware-00a015204/) [![Github Badge](https://img.shields.io/badge/-AyuOrniThrONE-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AyuOrniThrONE)](https://github.com/AyuOrniThrONE)   
 
 - 🔭 I’m currently working on an intership with FRT by Microsoft
-- 🌱 I’m currently learning Java, Kotlin, DSA, AWS
+- 🌱 I’m currently learning Java, Kotlin, DSA, Azure
 - 💬 Ask me anything related to Programming, Science, Gaming
 - 📫 How to reach me: [Twitter](https://twitter.com/Ayush31193239) or [YouTube](https://www.youtube.com/channel/UCp1DzCRS59iFsbNw6GkCYMw)
 - 😄 What I like?: Watching Sci-Fi Movies, and Playing Games(online or physical)
