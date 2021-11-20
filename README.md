@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on an intership with FRT by Microsoft
 - 🌱 I’m currently learning Java, Kotlin, DSA, Azure
-- 💬 Ask me anything related to Programming, Science, Gaming
+- 💬 Ask me anything related to Programming, Science, Gaming Except Anime 😅
 - 📫 How to reach me: [Twitter](https://twitter.com/Ayush31193239) or [YouTube](https://www.youtube.com/channel/UCp1DzCRS59iFsbNw6GkCYMw)
 - 😄 What I like?: Watching Sci-Fi Movies, and Playing Games(online or physical)
 - ⚡ Fact:. I love to talk about Science Facts and Upcoming Projects and Contribution
