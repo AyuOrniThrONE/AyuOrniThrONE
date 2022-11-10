@@ -2,8 +2,8 @@
 
 <h3 align="center">Programmer | Developer | Gamer(Sometimes XD) | Enthusiast Freak</h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-ayushprakashthaware@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ayushprakashthaware@gmail.com)](mailto:ayushprakashthaware@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-AyuOrniThrONE-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-thaware-00a015204/)](https://www.linkedin.com/in/ayush-thaware-00a015204/)
+[![Gmail Badge](https://img.shields.io/badge/-ayushprakashthaware@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ayushprakashthaware@gmail.com)](https://mail.google.com/mail/u/0/?tab=rm&ogbl=#inbox?compose=GTvVlcSGMTDtgcwKxqKZBkkClcTbzLjkXBtrtbMLsqVWbJdTGBVtpXnTljHldVjsBNmKkFVWsnPTr) 
+[![Linkedin Badge](https://img.shields.io/badge/-Ayush Thaware-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-thaware-00a015204/)](https://www.linkedin.com/in/ayush-thaware-00a015204/)
 [![Github Badge](https://img.shields.io/badge/-AyuOrniThrONE-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AyuOrniThrONE)](https://github.com/AyuOrniThrONE)   
 
 - 🔭 I’m currently working on an intership with IT NetworkZ by Salesforce
