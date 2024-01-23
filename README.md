@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, Welcome to My Profile🤝, I'm Ayush😅</h1>
+<h1 align="center">Hey Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, Welcome to My Profile🤝</h1>
 
 <h3 align="center">Programmer | Developer | Gamer(Sometimes XD) | Enthusiast Freak</h3>
 
@@ -6,12 +6,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Ayush_Thaware-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-thaware-00a015204/)](https://www.linkedin.com/in/ayush-thaware-00a015204/)
 [![Github Badge](https://img.shields.io/badge/-AyuOrniThrONE-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AyuOrniThrONE)](https://github.com/AyuOrniThrONE)   
 
-- 🔭 I’m currently working on an intership with IT NetworkZ by Salesforce
-- 🌱 I’m currently learning Java, Kotlin, DSA, Azure, Google Cloud, SQL, Golang, Flutter
+- 🔭 I’m currently working on an internship with IT NetworkZ by Salesforce
+- 🌱 Handson Experience on Java, Kotlin, Intermediate DSA, Microsoft Azure, Google Cloud, SQL, Flutter
 - 💬 Ask me anything related to Programming, Science, Gaming Except Anime 😅
 - 📫 How to reach me: [Twitter](https://twitter.com/Ayush31193239) or [YouTube](https://www.youtube.com/channel/UCp1DzCRS59iFsbNw6GkCYMw)
 - 😄 What I like?: Watching Sci-Fi Movies,Singing(Kind of rapping) and Playing Games(online or physical)
-- ⚡ Fact:. I love to talk about Science Facts and Upcoming Projects and Contribution
+- ⚡ Fact:. I love to talk about Science Facts, Upcoming Projects and Contributions
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/ig_ornithrone/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ig_ornithrone/" height="30" width="40" /></a>
