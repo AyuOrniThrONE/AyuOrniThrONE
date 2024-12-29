@@ -1,13 +1,15 @@
-<h1 align="center">Hey Everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, Welcome to My Profile🤝</h1>
+<h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, Welcome to My Profile🤝</h1>
 
 <h3 align="center">Programmer | Developer | Gamer(Sometimes XD) | Enthusiast Freak</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-ayushprakashthaware@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ayushprakashthaware@gmail.com)](https://mail.google.com/mail/u/0/?tab=rm&ogbl=#inbox?compose=GTvVlcSGMTDtgcwKxqKZBkkClcTbzLjkXBtrtbMLsqVWbJdTGBVtpXnTljHldVjsBNmKkFVWsnPTr) 
+[![Leetcode Badge](https://img.shields.io/badge/-AyuOrniThrONE-black?style=flat&logo=leetcode&logoColor=orange&link=https://leetcode.com/u/AyuOrniThrONE)](https://leetcode.com/u/AyuOrniThrONE)
+[![Hackerrank Badge](https://img.shields.io/badge/-ayush_thaware-darkgrey?style=flat&logo=hackerrank&logoColor=darkgreen&link=https://www.hackerrank.com/profile/ayush_thaware)](https://www.hackerrank.com/profile/ayush_thaware)
 [![Linkedin Badge](https://img.shields.io/badge/-Ayush_Thaware-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-thaware-00a015204/)](https://www.linkedin.com/in/ayush-thaware-00a015204/)
 [![Github Badge](https://img.shields.io/badge/-AyuOrniThrONE-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AyuOrniThrONE)](https://github.com/AyuOrniThrONE)   
 
-- 🔭 I’m currently working on an internship with IT NetworkZ by Salesforce
-- 🌱 Handson Experience on Java, Kotlin, Intermediate DSA, Microsoft Azure, Google Cloud, SQL, Flutter
+- 🔭 I’m a recent graduate with a B.Tech CSE Degree, working as a Network Engineer Trainee with Aksentt Tech, in association with MahaIT for the Government Project "MahaNet". 
+- 🌱 Handson Experience in Java, Kotlin, Intermediate DSA, Microsoft Azure, Google Cloud, SQL, Go.
 - 💬 Ask me anything related to Programming, Science, Gaming Except Anime 😅
 - 📫 How to reach me: [Twitter](https://twitter.com/Ayush31193239) or [YouTube](https://www.youtube.com/channel/UCp1DzCRS59iFsbNw6GkCYMw)
 - 😄 What I like?: Watching Sci-Fi Movies,Singing(Kind of rapping) and Playing Games(online or physical)
